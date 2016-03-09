@@ -1,0 +1,56 @@
+{
+  "name": "csaldesign",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "92fa7d7748ef3d762855d1e096199a4f",
+      "css": "cancel",
+      "code": 33,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M469 31Q663 31 800 168T938 500 800 831 469 969 138 831 0 500 138 168 469 31ZM469 865Q620 865 727 758T834 500 727 242 469 135 211 242 104 500 211 758 469 865ZM505 500L644 637Q656 650 649 666T625 682Q614 682 606 675L469 536 331 675Q324 682 313 682 296 682 289 666T294 637L433 500 294 362Q276 345 295 326T331 325L469 463 606 325Q624 307 643 326T644 362Z",
+        "width": 938
+      },
+      "search": [
+        "cancel"
+      ]
+    },
+    {
+      "uid": "a1c04e7c8705dab9b8f728a6ce6d3af0",
+      "css": "menu",
+      "code": 34,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M857 750V821Q857 836 847 846T821 857H36Q21 857 11 846T0 821V750Q0 735 11 725T36 714H821Q836 714 847 725T857 750ZM857 464V536Q857 550 847 561T821 571H36Q21 571 11 561T0 536V464Q0 450 11 439T36 429H821Q836 429 847 439T857 464ZM857 179V250Q857 265 847 275T821 286H36Q21 286 11 275T0 250V179Q0 164 11 153T36 143H821Q836 143 847 153T857 179Z",
+        "width": 857.1
+      },
+      "search": [
+        "menu"
+      ]
+    },
+    {
+      "uid": "b6f32db98a3de777f5ae3005191b1831",
+      "css": "web",
+      "code": 35,
+      "src": "entypo"
+    },
+    {
+      "uid": "bcb868184ff9c35f8aef564f50c0d649",
+      "css": "design",
+      "code": 36,
+      "src": "entypo"
+    },
+    {
+      "uid": "3a230e539a4f3b904debd04c6c155034",
+      "css": "brand",
+      "code": 37,
+      "src": "entypo"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+<main>
+	<section class="banner cf">
+		<h2><strong>Christian Saldarriaga</strong>, a <strong>Front End Web Developer</strong>, who is also passionate about <strong>Branding</strong> &amp; <strong>Design</strong></h2>
+		<div class="container"><a href="#" class="btn">SERVICES OFFERED</a></div><div class="container"><a href="#" class="btn">SEE MY WORK</a></div>
+	</section>
+
+
+	<section class="quicklinks cf">
+	<a href="#"><div>
+		<h3>WEB DEVELOPMENT</h3>
+		<span class="icon-web"></span>
+		<p>Creating custom solutions or solving specific problems on pre-existing sites</p>
+		<h6>TECHNOLOGY USED</h6>
+		<ul>
+				<li>HTML5</li>
+				<li>CSS3</li>
+				<li>Responsive Design</li>
+				<li>JavaScript &amp; JQuery</li>
+				<li>PHP</li>
+		</ul>
+	</div></a>
+	<a href="#"><div>
+		<h3>GRAPHIC DESIGN</h3>
+		<span class="icon-web"></span>
+		<p>Creating custom solutions or solving specific problems on pre-existing sites</p>
+		<h6>TECHNIQUES USED</h6>
+		<ul>
+				<li>HTML5</li>
+				<li>CSS3</li>
+				<li>Responsive Design</li>
+				<li>JavaScript &amp; JQuery</li>
+				<li>PHP</li>
+		</ul>
+	</div></a>
+	<a href="#"><div>
+		<h3>BRANDING</h3>
+		<span class="icon-web"></span>
+		<p>Creating custom solutions or solving specific problems on pre-existing sites</p>
+		<h6>TECHNIQUES USED</h6>
+		<ul>
+				<li>Brainstorming - Paper</li>
+				<li>Research - Internet</li>
+				<li>Sketches - Paper</li>
+				<li>Roughs - Adobe Illustrator</li>
+				<li>Client Deliverables 3</li>
+				<li>1 Final Logo</li>
+		</ul>
+	</div></a>
+
+	</section>
+
+
+
+
+</main>
