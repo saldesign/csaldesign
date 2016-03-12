@@ -27,9 +27,9 @@
 			<p>Creating custom solutions or solving specific problems on pre-existing sites</p>
 			<h6>SOFTWARE USED</h6>
 			<ul>
-					<li>adobe photoshop cc</li>
-					<li>adobe illustrator cc</li>
-					<li>adobe indesign cc</li>
+					<li>Adobe Photoshop CC</li>
+					<li>Adobe Illustrator CC</li>
+					<li>Adobe Indesign CC</li>
 			</ul>
 		</div></a>
 		<a href="#"><div>

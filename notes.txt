@@ -1,0 +1,25 @@
+CSalDesign.com
+
+Information Architecture
+
+	Home
+		Intro
+		Quick Links
+			Web Development
+				Description
+				Skills
+					HTML5											8/10
+					CSS3											8/10
+					Responsive Design					8/10
+					JavaScript & JQuery				6/10
+					Php & MySql								4/10
+					GIT												5/10
+					Moqups										5/10
+			Graphic Design
+				Description
+				Skills
+					Adobe Photoshop CC				8/10
+					Adobe IllustratorCC				8/10
+					Adobe Indesign CC					8/10
+					Adobe Premiere Pro CC 		6/10
+			Branding 
