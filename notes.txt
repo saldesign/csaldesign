@@ -4,26 +4,30 @@ Information Architecture
 
 	Home
 		Intro
+				- Christian Saldarriaga, a Front End Web Developer, who is equally passionate about Branding & Design
+				- Services Offered
+				- See My Work
+				
 		Quick Links
 			Web Development
-				Description
+					- Developing custom solutions or solving specific problems on pre-existing sites
 				Skills
-					HTML5											8/10
-					CSS3											8/10
-					Responsive Design					8/10
-					JavaScript & JQuery				6/10
-					Php & MySql								4/10
-					GIT												5/10
-					Moqups										5/10
+						HTML5											8/10
+						CSS3											8/10
+						Responsive Design					8/10
+						JavaScript & JQuery				6/10
+						Php & MySql								4/10
+						GIT												5/10
+						Moqups										5/10
 			Graphic Design
-				Description
+					- Designing print and web marketing or advertising material focused on conversion
 				Skills
-					Adobe Photoshop CC				8/10
-					Adobe IllustratorCC				8/10
-					Adobe Indesign CC					8/10
-					Adobe Premiere Pro CC 		6/10
+						Adobe Photoshop CC				8/10
+						Adobe IllustratorCC				8/10
+						Adobe Indesign CC					7/10
+						Adobe Premiere Pro CC 		6/10
 			Branding 
-				Description
+					- Creating a recognizable and unique identity strategy which identifies the brand as the key contender in its market
 				Skills
 					Logo and Brand Dedign
 					Print and Web Advertising
