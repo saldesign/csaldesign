@@ -1,5 +1,5 @@
 {
-  "name": "csaldesign",
+  "name": "beta-base",
   "css_prefix_text": "icon-",
   "css_use_suffix": false,
   "hinting": true,
@@ -7,9 +7,15 @@
   "ascent": 850,
   "glyphs": [
     {
-      "uid": "92fa7d7748ef3d762855d1e096199a4f",
+      "uid": "eeec3208c90b7b48e804919d0d2d4a41",
+      "css": "upload",
+      "code": 119,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "3e66853e074ceb403977b95545bb3fe2",
       "css": "cancel",
-      "code": 33,
+      "code": 34,
       "src": "custom_icons",
       "selected": true,
       "svg": {
@@ -21,9 +27,45 @@
       ]
     },
     {
-      "uid": "a1c04e7c8705dab9b8f728a6ce6d3af0",
+      "uid": "d17030afaecc1e1c22349b99f3c4992a",
+      "css": "star-empty",
+      "code": 37,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "474656633f79ea2f1dad59ff63f6bf07",
+      "css": "star",
+      "code": 38,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "4c1ef492f1d2c39a2250ae457cee2a6e",
+      "css": "i",
+      "code": 33,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "4743b088aa95d6f3b6b990e770d3b647",
+      "css": "f",
+      "code": 39,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "f0cf7db1b03cb65adc450aa3bdaf8c4d",
+      "css": "g",
+      "code": 40,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "906348dc798a0d42715cc97c875e3ac6",
+      "css": "t",
+      "code": 41,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "c36ab61eccac784b441d6d0ed73d7fb0",
       "css": "menu",
-      "code": 34,
+      "code": 35,
       "src": "custom_icons",
       "selected": true,
       "svg": {
@@ -35,22 +77,18 @@
       ]
     },
     {
-      "uid": "b6f32db98a3de777f5ae3005191b1831",
-      "css": "web",
-      "code": 35,
-      "src": "entypo"
-    },
-    {
-      "uid": "bcb868184ff9c35f8aef564f50c0d649",
-      "css": "design",
+      "uid": "ec6dd460286793afde6198f12c5fd801",
+      "css": "upload-1",
       "code": 36,
-      "src": "entypo"
-    },
-    {
-      "uid": "3a230e539a4f3b904debd04c6c155034",
-      "css": "brand",
-      "code": 37,
-      "src": "entypo"
+      "src": "custom_icons",
+      "selected": false,
+      "svg": {
+        "path": "M714 821Q714 807 704 796T679 786 653 796 643 821 653 847 679 857 704 847 714 821ZM857 821Q857 807 847 796T821 786 796 796 786 821 796 847 821 857 847 847 857 821ZM929 696V875Q929 897 913 913T875 929H54Q31 929 16 913T0 875V696Q0 674 16 658T54 643H292Q304 674 331 694T393 714H536Q570 714 597 694T637 643H875Q897 643 913 658T929 696ZM747 335Q738 357 714 357H571V607Q571 622 561 632T536 643H393Q378 643 368 632T357 607V357H214Q191 357 181 335 172 313 189 296L439 46Q449 36 464 36T489 46L739 296Q757 313 747 335Z",
+        "width": 928.6
+      },
+      "search": [
+        "upload"
+      ]
     }
   ]
 }

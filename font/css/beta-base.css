@@ -1,10 +1,11 @@
 @font-face {
-  font-family: 'csaldesign';
-  src: url('../font/csaldesign.eot?67743548');
-  src: url('../font/csaldesign.eot?67743548#iefix') format('embedded-opentype'),
-       url('../font/csaldesign.woff?67743548') format('woff'),
-       url('../font/csaldesign.ttf?67743548') format('truetype'),
-       url('../font/csaldesign.svg?67743548#csaldesign') format('svg');
+  font-family: 'beta-base';
+  src: url('../font/beta-base.eot?83117619');
+  src: url('../font/beta-base.eot?83117619#iefix') format('embedded-opentype'),
+       url('../font/beta-base.woff2?83117619') format('woff2'),
+       url('../font/beta-base.woff?83117619') format('woff'),
+       url('../font/beta-base.ttf?83117619') format('truetype'),
+       url('../font/beta-base.svg?83117619#beta-base') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -13,14 +14,14 @@
 /*
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
-    font-family: 'csaldesign';
-    src: url('../font/csaldesign.svg?67743548#csaldesign') format('svg');
+    font-family: 'beta-base';
+    src: url('../font/beta-base.svg?83117619#beta-base') format('svg');
   }
 }
 */
  
  [class^="icon-"]:before, [class*=" icon-"]:before {
-  font-family: "csaldesign";
+  font-family: "beta-base";
   font-style: normal;
   font-weight: normal;
   speak: none;
@@ -54,8 +55,12 @@
   /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
 }
  
-.icon-cancel:before { content: '\21'; } /* '!' */
-.icon-menu:before { content: '\22'; } /* '&quot;' */
-.icon-web:before { content: '\23'; } /* '#' */
-.icon-design:before { content: '\24'; } /* '$' */
-.icon-brand:before { content: '\25'; } /* '%' */
+.icon-i:before { content: '\21'; } /* '!' */
+.icon-cancel:before { content: '\22'; } /* '&quot;' */
+.icon-menu:before { content: '\23'; } /* '#' */
+.icon-star-empty:before { content: '\25'; } /* '%' */
+.icon-star:before { content: '\26'; } /* '&amp;' */
+.icon-f:before { content: '\27'; } /* ''' */
+.icon-g:before { content: '\28'; } /* '(' */
+.icon-t:before { content: '\29'; } /* ')' */
+.icon-upload:before { content: '\77'; } /* 'w' */
